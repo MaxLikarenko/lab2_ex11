@@ -1,0 +1,43 @@
+* {
+    background: aquamarine;
+}
+
+#main-title {
+    background: cornflowerblue;
+}
+
+#subtitle {
+    background: orange;
+}
+
+#paragraph1 {
+    background: azure;
+}
+
+#paragraph2 {
+    background: limegreen;
+}
+
+#list {
+    background: rebeccapurple;
+}
+
+#item1 {
+    color: red;
+}
+
+#item2 {
+    color: yellow;
+}
+
+#item3 {
+    color: green;
+}
+
+#item4 {
+    color: white;
+}
+
+#item5 {
+    color: blue;
+}
